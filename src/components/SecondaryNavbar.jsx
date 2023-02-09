@@ -1,6 +1,6 @@
 import React from "react";
 
-const SecoundaryNavbar = () => {
+const SecondaryNavbar = () => {
   return (
     <nav class="navbar">
       <div class="d">
@@ -164,4 +164,4 @@ const SecoundaryNavbar = () => {
   );
 };
 
-export default SecoundaryNavbar;
+export default SecondaryNavbar;
